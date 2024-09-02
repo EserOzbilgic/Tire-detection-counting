@@ -39,8 +39,7 @@ This project leverages the power of deep learning and computer vision to detect 
 git clone https://github.com/yourusername/Tire-Detection-Counting.git
 cd Tire-Detection-Counting
 
-![lastik2](https://github.com/user-attachments/assets/1166fc5b-0333-44d1-bcba-83369f4b08e2)
-![lastik](https://github.com/user-attachments/assets/78b76ad4-5b7d-4713-8aa9-84fb44e37d06)
+
 
 
 
