@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/cfa9910d-e9b9-4018-8311-e437decf1624
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Tire-Detection-Counting.git
+git clone https://github.com/EserOzbilgic/Tire-Detection-Counting.git
 cd Tire-Detection-Counting
 
 
